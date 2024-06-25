@@ -1,0 +1,12 @@
+Task-1: 
+
+Write a java program to print your 
+information(name, graduation, from where, contactNO) using Scanner class.
+
+
+Task-2: 
+
+Write a java program to calculate the simple interest 
+for a given amount 10000, rate of interest is 2.5 and time duration 24 months.
+
+Note: read the values from command-line arguments 
